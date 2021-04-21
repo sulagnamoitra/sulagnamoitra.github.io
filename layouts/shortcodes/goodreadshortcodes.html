@@ -1,0 +1,12 @@
+<ul class="grBooks">
+  {{ $url := .Get "url" }} {{ range getJSON $url }} {{ $p := . }}
+  <li>
+    <a href="{{ $p.url }}" target="_blank"
+      >📗<strong>{{ $p.book }}</strong> - {{$p.author}}</a
+    >
+    <br />
+    Year : {{$p.date}} | Rating: {{$p.rating}} ⭐ <br />
+    <div class="clear"></div>
+  </li>
+  {{ end }}
+</ul>
