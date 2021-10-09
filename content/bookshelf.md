@@ -15,7 +15,7 @@ These are the books in my bookshelf [Goodreads](https://www.goodreads.com/user/s
 
 
 ## Reading
-{{< goodreadingshortcode url="https://sulagna.in/goodreads/reading" >}}
+{{< goodreadingshortcode url="https://vercel-serverless-seven.vercel.app/goodreads/reading" >}}
 
 ## Read
-{{< goodreadshortcodes url="https://sulagna.in/goodreads/read" >}}
+{{< goodreadshortcodes url="https://vercel-serverless-seven.vercel.app/goodreads/read" >}}

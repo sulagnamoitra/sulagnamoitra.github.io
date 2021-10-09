@@ -16,4 +16,4 @@ These are my book reviews [Goodreads](https://www.goodreads.com/user/show/905669
 
 
 ## Reading
-{{< goodreadreviewshortcode url="https://sulagna.in/goodreads/review" >}}
+{{< goodreadreviewshortcode url="https://vercel-serverless-seven.vercel.app/goodreads/review" >}}
