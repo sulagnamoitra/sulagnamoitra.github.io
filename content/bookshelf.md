@@ -15,7 +15,7 @@ These are the books in my bookshelf [Goodreads](https://www.goodreads.com/user/s
 
 
 ## Reading
-{{< goodreadingshortcode url="http://localhost:7000/goodreads/reading" >}}
+{{< goodreadingshortcode url="https://sulagna.in/goodreads/reading" >}}
 
 ## Read
-{{< goodreadshortcodes url="http://localhost:7000/goodreads/read" >}}
+{{< goodreadshortcodes url="https://sulagna.in/goodreads/read" >}}
